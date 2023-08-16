@@ -82,6 +82,7 @@ android {
         }
     }
     namespace 'com.klamerek.fantasyrealms'
+    compileSdk 34
 }
 
 dependencies {
